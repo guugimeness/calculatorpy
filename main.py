@@ -10,7 +10,7 @@ white = '#feffff'
 
 window = Tk()
 window.resizable(width=False, height=False)
-window.title("Calculadora")
+window.title("Calculator")
 
 # Window configuration
 window.geometry('471x517') # width and height
